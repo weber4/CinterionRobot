@@ -1,0 +1,11 @@
+MIDlet-1: Robot_Demo,,Robot_Demo.Robot_Demo
+MIDlet-Jar-Size: 23790
+MIDlet-Jar-URL: Robot_Demo.jar
+MIDlet-Name: Robot_Demo MIDlet Suite
+MIDlet-Vendor: Gemalto M2M GmbH
+MIDlet-Version: 1.0.2
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: IMP-NG
+Oracle-MIDlet-Autostart: 1
+Oracle-MIDlet-Restart: true
+Oracle-MIDlet-Restart-Count: 10
