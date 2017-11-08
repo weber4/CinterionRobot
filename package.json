@@ -1,0 +1,11 @@
+{
+  "name": "Cinterion-Robot",
+  "main": "index.html",
+  "window": {
+    "width": 1200,
+	"height": 700,
+	"icon":"images/robot.png" 
+    },
+	"dependencies": {
+  }
+}
